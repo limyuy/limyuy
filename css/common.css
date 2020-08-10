@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* 초기화 */
+body, h1, h2, h3, p, ul { margin: 0; padding: 0; }
+li { list-style: none; }
+a { text-decoration: none; }
+fieldset { border: 0 solid; }
+.hidden { position: absolute; left: -9999px; }
+/* header */
+#headerWrap {}
+#header {}
+#header h1 {}
+#header h1 a {}
+#address {}
+/* gnb */
+#gnb {}
+#gnb ul {}
+#gnb ul li {}
+#gnb ul li a {}
+#langBox1 {}
+#langBox1 option {}
+/* lnb1 */
+#lnb1 {}
+#lnb1 ul {}
+#lnb1 ul li {}
+#lnb1 ul li a {}
+/* lnb2 */
+#lnb2 {}
+#lnb2 a {}
+#lnb2 a span {}
+#lnb2 ul {}
+#lnb2 ul li {}
+#lnb2 ul li ul {}
+/* slider */
+#sliderwrap {}
+#sliderList {}
+#btnPos {}
+#btnPos .prev {}
+#btnPos .next {}
+#btnNum {}
+#sliderControl {}
+/* main */
+#mainWrap {}
+#orderWrap {}
+/* order1 */
+#order1 {}
+#order1 h3 {}
+#order1 h3 a {}
+#order1 h3 p {}
+#delivery {}
+#takeOut {}
+/* order2 */
+#order2 {}
+#order2 h3 {}
+#order2 h3 a {}
+#order2 h3 p {}
+#chat {}
+#quick {}
+#pickUp {}
+/* service */
+#serviceWrap {}
+#serviceWrap p {}
+#serviceWrap p span {}
+#serviceWrap a {}
+#serviceWrap a span {}
+#service {}
+#btnWrap {}
+#btnWrap .prev {}
+#btnWrap .next {}
+.serviceList {}
+.serviceList ul li {}
+/* event */
+#eventWrap {}
+#event1 {}
+#event1 a {}
+#event2 {}
+#event2 a {}
+/* footer */
